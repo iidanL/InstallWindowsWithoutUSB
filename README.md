@@ -13,6 +13,12 @@ Dual-boot means that on your pc will be installed 2 versions of Windows.
 
 After installation new one you can delete files from old Windows drive and merge partitions.
 
+
+
+## Disclaimer
+if you are seeing this and paid for the use of this tool in any shape or form, contact me danL#4592 on discord.
+
+
 Steps
 =====
 
