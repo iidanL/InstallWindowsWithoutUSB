@@ -25,9 +25,12 @@ Steps
 
 1. Download iso that you want to install.
 2. Open Disk Managment (win + r -> diskmgmt.msc).
-3. Select Partition that you want to shrink, right click on it and select “Shrink Volume”. ( https://prnt.sc/xzv08e )
-4. Type how much space you want to allocate for your future Windows partition (At Least 30gb) and click shrink. ( https://prnt.sc/xzv0q7 )
-5. Find unallocated space, right click on it and select “New Simple Volume” and just always click next. ( https://prnt.sc/xzv15b )
+3. Select Partition that you want to shrink, right click on it and select “Shrink Volume”. 
+![Shrink Volume](https://i.imgur.com/DV9if1i.png)
+4. Type how much space you want to allocate for your future Windows partition (At Least 30gb) and click shrink.
+![Allocation](https://i.imgur.com/SsRkmXv.png)
+5. Find unallocated space, right click on it and select “New Simple Volume” and just always click next. 
+![New Volume](https://i.imgur.com/CFQ7KSZ.png)
 6. Download Batch File from repository,  run it as admin and follow the directions in it.
 
 
@@ -38,7 +41,7 @@ How full path looks like?
 > C:\Users\Daniil\Downloads\ReviOS_20H2_S1.0.iso
 
 How new “Mounted” drive looks like?
-> https://prnt.sc/xzv1ma
+![Mounted Drive](https://i.imgur.com/zVQnjfh.png)
 
 Where can I find the drive letter for Windows? 
 > Use letter which you created in step 5.
