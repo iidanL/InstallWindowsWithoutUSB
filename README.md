@@ -41,7 +41,7 @@ How full path looks like?
 > C:\Users\Daniil\Downloads\ReviOS_20H2_S1.0.iso
 
 How new “Mounted” drive looks like?
-![Mounted Drive](https://i.imgur.com/zVQnjfh.png)
+> ![Mounted Drive](https://i.imgur.com/zVQnjfh.png)
 
 Where can I find the drive letter for Windows? 
 > Use letter which you created in step 5.
