@@ -8,6 +8,9 @@ Why is this method 100% safe? - It installs windows in dual-boot mode.
 Dual-boot means that on your pc will be installed 2 versions of Windows.
 After installation new one you can delete files from old Windows drive and merge them.
 
+Steps
+======
+
 
 1. Download iso that you want to install.
 2. Open Disk Managment (win + r -> diskmgmt.msc).
