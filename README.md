@@ -1,4 +1,4 @@
-# InstallWindowsWithoutUSB
+# WindowsWithoutUSB
 New method of installation ANY windows iso without USB stick / CD-DVD.
 
 
@@ -9,7 +9,7 @@ Dual-boot means that on your pc will be installed 2 versions of Windows.
 After installation new one you can delete files from old Windows drive and merge them.
 
 Steps
-======
+=====
 
 
 1. Download iso that you want to install.
@@ -21,6 +21,7 @@ Steps
 
 
 SCRIPT FAQ
+==========
 
 HOW FULL PATH LOOKS LIKE? - C:\Users\Daniil\Downloads\ReviOS_20H2_S1.0.iso
 HOW NEW “MOUNTED” DRIVE LOOKS LIKE? - https://prnt.sc/xzv1ma
