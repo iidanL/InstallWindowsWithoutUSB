@@ -6,7 +6,8 @@ This method is faster, easier and 100% safe comparing with default windows insta
 
 ___
 
-Why is this method 100% safe? - It installs windows in dual-boot mode.
+Why is this method 100% safe? 
+> It installs windows in dual-boot mode.
 
 Dual-boot means that on your pc will be installed 2 versions of Windows.
 
