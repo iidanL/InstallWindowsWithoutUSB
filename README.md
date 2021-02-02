@@ -4,6 +4,8 @@ New method of installation ANY windows iso without USB stick / CD-DVD.
 
 This method is faster, easier and 100% safe comparing with default windows installation with usb stick.
 
+___
+
 Why is this method 100% safe? - It installs windows in dual-boot mode.
 Dual-boot means that on your pc will be installed 2 versions of Windows.
 After installation new one you can delete files from old Windows drive and merge them.
@@ -26,7 +28,7 @@ SCRIPT FAQ
 How full path looks like?
 > C:\Users\Daniil\Downloads\ReviOS_20H2_S1.0.iso
 
-HOW NEW “MOUNTED” DRIVE LOOKS LIKE?
+How new “Mounted” drive looks like?
 > https://prnt.sc/xzv1ma
 
 Where to find drive letter for Windows? 
