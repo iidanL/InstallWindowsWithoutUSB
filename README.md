@@ -14,7 +14,7 @@ After installation new one you can delete files from old Windows drive and merge
 3. Select Partition that you want to shrink, right click on it and select “Shrink Volume”. ( https://prnt.sc/xzv08e )
 4. Type how much space you want to allocate for your future Windows partition (At Least 30gb) and click shrink. ( https://prnt.sc/xzv0q7 )
 5. Find unallocated space, right click on it and select “New Simple Volume” and just always click next. ( https://prnt.sc/xzv15b )
-
+6. Download Batch File from repository,  run it as admin and follow the directions in it.
 
 
 SCRIPT FAQ
