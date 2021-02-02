@@ -34,5 +34,5 @@ How full path looks like?
 How new “Mounted” drive looks like?
 > https://prnt.sc/xzv1ma
 
-Where to find drive letter for Windows? 
+Where can I find the drive letter for Windows? 
 > Use letter which you created in step 5.
