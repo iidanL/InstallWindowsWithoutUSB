@@ -23,6 +23,11 @@ Steps
 SCRIPT FAQ
 ==========
 
-HOW FULL PATH LOOKS LIKE? - C:\Users\Daniil\Downloads\ReviOS_20H2_S1.0.iso
-HOW NEW “MOUNTED” DRIVE LOOKS LIKE? - https://prnt.sc/xzv1ma
-WHERE TO FIND DRIVE LETTER FOR WINDOWS? - USE LETTER WHICH YOU CREATED IN STEP 5.
+How full path looks like?
+> C:\Users\Daniil\Downloads\ReviOS_20H2_S1.0.iso
+
+HOW NEW “MOUNTED” DRIVE LOOKS LIKE?
+> https://prnt.sc/xzv1ma
+
+Where to find drive letter for Windows? 
+> Use letter which you created in step 5.
