@@ -18,7 +18,8 @@ set /p s=
 	
 	echo Type Drive Letter for Windows which you created before (You can't select your partition with already installed Windows).
 	set /p d=
-		DISM /Apply-Image /ImageFile:%s%:\sources\install.wim /Index:1 /ApplyDir:%d%:\
+		IF EXIST "%s%:\sources\install.wim" DISM /Apply-Image /ImageFile:%s%:\sources\install.wim /Index:1 /ApplyDir:%d%:\
+		IF EXIST "%s%:\sources\install.esd" DISM /Apply-Image /ImageFile:%s%:\sources\install.esd /Index:1 /ApplyDir:%d%:\
 		bcdboot %d%:\Windows
 	
 		PowerShell Dismount-DiskImage -ImagePath "%a%"
