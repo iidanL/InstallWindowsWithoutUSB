@@ -1,6 +1,6 @@
 # WindowsWithoutUSB
 New method of installation ANY Windows Iso Without USB.
-> NOW WORKS WITH ALL CUSTOM ISOS!
+# NOW WORKS WITH ALL CUSTOM ISOS!
 
 > Bypasses all Win11 installation errors.
 
