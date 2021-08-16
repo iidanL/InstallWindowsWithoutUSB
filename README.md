@@ -1,5 +1,7 @@
 # WindowsWithoutUSB
-New method of installation ANY windows iso without USB stick / CD-DVD.
+New method of installation ANY Windows Iso Without USB.
+> NOW WORKS WITH ALL CUSTOM ISOS!
+
 > Bypasses all Win11 installation errors.
 
 This method is faster, easier and 100% safe comparing with default windows installation with usb stick.
