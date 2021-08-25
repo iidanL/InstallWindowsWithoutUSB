@@ -1,8 +1,6 @@
-# WindowsWithoutUSB
-New method of installation ANY Windows Iso Without USB.
 # NOW WORKS WITH ALL CUSTOM ISOS!
 
-> Bypasses all Win11 installation errors.
+> Bypasses all Windows 11 installation errors.
 
 This method is faster, easier and 100% safe comparing with default windows installation with usb stick.
 
@@ -14,12 +12,6 @@ Why is this method 100% safe?
 Dual-boot means that on your pc will be installed 2 versions of Windows.
 
 After installation new one you can delete files from old Windows drive and merge partitions.
-
-
-
-## Disclaimer
-if you are seeing this and paid for the use of this tool in any shape or form, contact me danL#4592 on discord.
-
 
 Steps
 =====
@@ -38,9 +30,6 @@ Steps
 
 SCRIPT FAQ
 ==========
-
-How full path looks like?
-> C:\Users\Daniil\Downloads\ReviOS_20H2_S1.0.iso
 
 How new “Mounted” drive looks like?
 > ![Mounted Drive](https://i.imgur.com/zVQnjfh.png)
