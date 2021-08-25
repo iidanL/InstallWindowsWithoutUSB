@@ -25,6 +25,12 @@ for /f "delims=" %%I in ('powershell -noprofile "iex (${%~f0} | out-string)"') d
 			IF EXIST "C:\WindowsInstallation\sources\install.wim" DISM /Apply-Image /ImageFile:C:\WindowsInstallation\sources\install.wim /Index:1 /ApplyDir:%d%:\
 			IF EXIST "C:\WindowsInstallation\sources\install.esd" DISM /Apply-Image /ImageFile:C:\WindowsInstallation\sources\install.esd /Index:1 /ApplyDir:%d%:\
 		)
+		if %ERRORLEVEL% neq 0 (
+		echo "Error."
+		timeout 2
+		exit /b 1
+		)
+		
 		move C:\WindowsInstallation\sources\$OEM$\$$\Setup\Scripts\*.* %d%:\Windows\Setup\Scripts >nul 2>&1
 		move C:\WindowsInstallation\autounattend.xml %d%:\Windows\System32\Sysprep\unattend.xml >nul 2>&1
 		bcdboot %d%:\Windows
