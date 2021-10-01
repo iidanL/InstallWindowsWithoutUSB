@@ -31,8 +31,5 @@ Steps
 SCRIPT FAQ
 ==========
 
-How new “Mounted” drive looks like?
-> ![Mounted Drive](https://i.imgur.com/zVQnjfh.png)
-
 Where can I find the drive letter for Windows? 
 > Use letter which you created in step 5.
