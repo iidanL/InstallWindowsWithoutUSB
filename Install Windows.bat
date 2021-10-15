@@ -6,12 +6,13 @@ title Install Windows without USB
 :: CHECK FOR ADMIN PRIVILEGES
 dism >nul 2>&1 || (echo This script must be Run as Administrator. && pause && exit /b 1)
 
+if not exist 7z.exe echo 7Zip not found! Please download this repo as a .zip and try again. & pause & exit
 
 echo Choose ISO to install:
 
 for /f "delims=" %%I in ('powershell -noprofile "iex (${%~f0} | out-string)"') do (
 	echo %%~I
-    7z.exe x -y -oC:\WindowsInstallation %%~I 
+    7z.exe x -y -oC:\WindowsInstallation "%%~I"
 )
 	cls
 	echo Type Drive Letter for Windows which you created before (You can't select your partition with already installed Windows).
