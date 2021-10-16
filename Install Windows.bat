@@ -6,7 +6,7 @@ title Install Windows without USB
 :: CHECK FOR ADMIN PRIVILEGES
 dism >nul 2>&1 || (echo This script must be Run as Administrator. && pause && exit /b 1)
 
-if not exist 7z.exe echo 7Zip not found! Please download this repo as a .zip and try again. & pause & exit
+if not exist %~dp07z.exe echo 7Zip not found! Please download this repo as a .zip and try again. & pause & exit
 
 echo Choose ISO to install:
 
