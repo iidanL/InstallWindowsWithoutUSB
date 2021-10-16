@@ -1,8 +1,8 @@
 <# : Installation.bat
 @echo off
+pushd %~dp0
 setlocal
 title Install Windows without USB
-cd %~dp0
 
 :: CHECK FOR ADMIN PRIVILEGES
 dism >nul 2>&1 || (echo This script must be Run as Administrator. && pause && exit /b 1)
