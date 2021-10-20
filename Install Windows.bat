@@ -1,5 +1,6 @@
 <# : Installation.bat
 @echo off
+pushd %~dp0
 setlocal
 title Install Windows without USB
 
