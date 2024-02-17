@@ -1,6 +1,7 @@
-# NOW WORKS WITH ALL CUSTOM ISOS!
+# DISCONTINUED DUE TO CUSTOM ISO'S MIGRATION TO PLAYBOOKS.
 
-> Bypasses all Windows 11 installation errors.
+
+
 
 This method is faster, easier and 100% safe comparing with default windows installation with usb stick.
 
