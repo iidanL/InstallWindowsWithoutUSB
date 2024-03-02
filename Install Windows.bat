@@ -28,8 +28,8 @@ for /f "delims=" %%I in ('powershell -noprofile "iex (${%~f0} | out-string)"') d
 			IF EXIST "C:\WindowsInstallation\sources\install.esd" DISM /Apply-Image /ImageFile:C:\WindowsInstallation\sources\install.esd /Index:1 /ApplyDir:%d%:\
 		)
 		if %ERRORLEVEL% neq 0 (
-		echo "Error."
-		timeout 2
+		echo "An unknwon error has occured. Please head to https://github.com/iidanL/InstallWindowsWithoutUSB/issues/new to report it."
+		timeout 10
 		exit /b 1
 		)
 		
